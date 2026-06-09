@@ -78,14 +78,17 @@ WeatherProject/
 │   └── vite.config.js
 │
 ├── HOW_TO_RUN.md
+├── weather.csv
+├── rain.jpeg
+└── README.md
+
 
 ```
 
 Author
+
 Lavanya
 
 License
+
 This project is open-source and available for learning and development purposes.
-├── weather.csv
-├── rain.jpeg
-└── README.md
