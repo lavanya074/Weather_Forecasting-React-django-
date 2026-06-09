@@ -84,6 +84,10 @@ WeatherProject/
 
 
 ```
+<img width="1248" height="735" alt="image" src="https://github.com/user-attachments/assets/63b3f6e2-da58-4cc1-8f3e-239e12d8eefd" />
+<img width="1015" height="693" alt="image" src="https://github.com/user-attachments/assets/0e470a85-53dd-4555-93ff-4131661a5caf" />
+
+
 
 Author
 
